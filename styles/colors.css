@@ -1,0 +1,44 @@
+.bg-blue-gradient {
+    background: transparent linear-gradient(254deg, #231D4E 0%, #070610 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.bg-beige {
+    color: #EBEAE4;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.text-white {
+    color: #FFFFFF;
+}
+
+.text-black-alpha {
+    color: #000000DE;
+}
+
+.text-grey-1 {
+    color: #787878;
+}
+
+.text-grey-2 {
+    color: #7A8389;
+}
+
+.bg-light-blue {
+    background-color: #3C98FA;
+}   
+
+.bg-black {
+    background-color: #000000;
+}
+
+.bg-black-alpha {
+    background-color: #000000DE;
+}
+
+.border-grey-4 {
+    border-color: #E2E4E8;
+}

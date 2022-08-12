@@ -1,0 +1,18 @@
+.container,
+.container-full {
+  display: block;
+}
+
+.container {
+  padding-left: 36px;
+  padding-right: 36px;
+}
+
+/** Responsive CSS (Desktop) */
+
+@media only screen and (min-width: 768px) {
+  .container {
+    padding-left: 133px;
+    padding-right: 133px;
+  }
+}

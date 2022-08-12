@@ -1,0 +1,28 @@
+#services-intro {
+    width: auto;
+    background: black;
+    padding-top: 76px;
+    padding-bottom: 36px;
+}
+
+.intro-title h2 {
+    color: #ffffff;
+    margin-bottom: 24px;
+}
+
+.intro-video {
+    margin-top: 82px;
+}
+
+.intro-video-box {
+    border-radius: 10px;
+    height: 222px;
+    background-color: #242424;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro-video-play {
+    height: 44px;
+}

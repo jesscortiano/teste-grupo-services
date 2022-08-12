@@ -1,0 +1,100 @@
+#services-login-area {
+    display: flex;
+    flex-direction: column;
+}   
+
+.banner {
+    height: 130px;
+    margin: 10px 9px 0 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner > svg {
+    width: auto;
+    height: 25px;
+}
+
+.login-title {
+    margin-top: 80px;
+    margin-bottom: 5px;
+}
+
+.login-subtitle {
+    margin-bottom: 40px;
+}
+
+.form-field {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.checkbox-field {
+    flex-direction: row;
+    align-items: center;
+    font-family: SF Pro Display;
+    font-size: 16px;
+    color: black;
+}
+
+.form-field label {
+    font-family: SF Pro Display_SEMIBOLD;
+    color: #7A8389;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 8px;
+}
+
+input[type="text"] {
+    display: block;
+    height: 51px;
+    border: 2px solid #E2E4E8;
+    border-radius: 8px;
+}
+
+.btn-enter {
+    width: 354px;
+    height: 60px;
+    background: #3C98FA;
+    color:#ffffff;
+    font-family: SF Pro Display;
+    font-size: 18px;
+    border: 0 none;
+    border-radius: 10px;
+    margin-bottom: 31px;
+}
+
+.checkbox-style {
+    width: 24px;
+    height: 24px;
+    margin-right: 14px;
+    background: #3C98FA;
+    border-radius: 10px;
+}
+
+input.checkbox-style:checked {
+    background-color: #3C98FA;
+}
+
+/** Responsive CSS (Desktop) */
+
+@media only screen and (min-width: 768px) {
+    
+    #services-login-area {
+        height: 100vh;
+        flex-direction: row;
+    }
+
+    #services-login-area > div {
+        height: 100%;
+        width: 50%;
+    }
+    
+    .banner {
+        margin: 15px;
+        border-radius: 15px;
+    }
+}

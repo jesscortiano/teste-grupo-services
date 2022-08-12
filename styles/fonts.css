@@ -1,0 +1,79 @@
+/**
+ * Fonts
+ */
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_thin.otf") format("opentype");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_thin.otf") format("opentype");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_light.otf") format("opentype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_regular.otf") format("opentype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_medium.otf") format("opentype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_medium.otf") format("opentype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services-bold.otf") format("opentype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_extrabold.otf") format("opentype");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: GRUPO SERVICES;
+    src: url("../fonts/grupo_services_black.otf") format("opentype");
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: GRUPO_SERVICES_DEMIROUNDED;
+    src: url("../fonts/grupo_services_demirounded.otf") format("opentype");
+}
+
+@font-face {
+    font-family: SF Pro Display;
+    src: url("../fonts/SFProDisplay-Regular.ttf") format("truetype");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: SF Pro Display_SEMIBOLD;
+    src: url("../fonts/SFProDisplay-Semibold.ttf") format("truetype");
+
+}
